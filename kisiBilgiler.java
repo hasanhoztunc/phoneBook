@@ -2,54 +2,61 @@
 package telefonrehberi;
 
 
-public class kisiBilgiler {
+public class kisiBilgiler 
+{
     private String isim;
     private String soyisim;
     private String numara;
 
-    public String getIsim() {
+    public String getIsim() 
+    {
         return isim;
     }
 
-    public void setIsim(String isim) {
+    public void setIsim(String isim) 
+    {
         this.isim = isim;
     }
 
-    public String getSoyisim() {
+    public String getSoyisim() 
+    {
         return soyisim;
     }
 
-    public void setSoyisim(String soyisim) {
+    public void setSoyisim(String soyisim) 
+    {
         this.soyisim = soyisim;
     }
 
-    public String getNumara() {
+    public String getNumara() 
+    {
         return numara;
     }
 
-    public void setNumara(String numara) {
+    public void setNumara(String numara) 
+    {
         this.numara = numara;
     }
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
